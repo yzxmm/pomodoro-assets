@@ -1,3 +1,76 @@
 {
-    "files": []
+    "files": [
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/end/voice2602-006.mp3",
+            "category": "end"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/end/voice2602-008.mp3",
+            "category": "end"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/exit/voice2602-018.mp3",
+            "category": "exit"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/exit/voice2602-020.mp3",
+            "category": "exit"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/end/voice2602-023.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "end"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/exit/voice2602-026.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "exit"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/greeting/voice2602-021.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "greeting"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/interval/voice2602-024.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "interval"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/resume/voice2602-025.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "resume"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/holidays/christmas/start/voice2602-022.mp3",
+            "category": "holiday",
+            "holiday": "christmas",
+            "type": "start"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/interval/voice2602-012.mp3",
+            "category": "interval"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/resume/voice2602-015.mp3",
+            "category": "resume"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/resume/voice2602-016.mp3",
+            "category": "resume"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/start/voice2602-003.mp3",
+            "category": "start"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/start/voice2602-004.mp3",
+            "category": "start"
+        }
+    ]
 }
