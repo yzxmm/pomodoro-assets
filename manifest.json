@@ -65,42 +65,6 @@
             "category": "resume"
         },
         {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/end/voice2602-023.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "end"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/exit/voice2602-026.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "exit"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/greeting/voice2602-021.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "greeting"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/interval/voice2602-024.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "interval"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/resume/voice2602-025.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "resume"
-        },
-        {
-            "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/seasons/christmas/start/voice2602-022.mp3",
-            "category": "season",
-            "season": "christmas",
-            "type": "start"
-        },
-        {
             "url": "https://raw.githubusercontent.com/yzxmm/pomodoro-assets/main/start/voice2602-003.mp3",
             "category": "start"
         },
